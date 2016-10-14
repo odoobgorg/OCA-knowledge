@@ -1,7 +1,6 @@
 [![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/119/9.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-knowledge-118)
 [![Build Status](https://travis-ci.org/OCA/knowledge.svg?branch=9.0)](https://travis-ci.org/OCA/knowledge)
-[![Coverage Status](https://coveralls.io/repos/OCA/knowledge/badge.png?branch=9.0)](https://coveralls.io/r/OCA/knowledge?branch=9.0)
-[![Code Climate](https://codeclimate.com/github/OCA/knowledge/badges/gpa.svg)](https://codeclimate.com/github/OCA/knowledge)
+[![codecov](https://codecov.io/gh/OCA/knowledge/branch/9.0/graph/badge.svg)](https://codecov.io/gh/OCA/knowledge)
 
 Knowledge
 =========
@@ -20,7 +19,7 @@ addon | version | summary
 --- | --- | ---
 [document_page](document_page/) | 9.0.1.0.1 | Document Page
 [document_page_approval](document_page_approval/) | 9.0.1.0.0 | Document Page Approval
-[document_url](document_url/) | 9.0.1.0.0 | URL attachment
+[document_url](document_url/) | 9.0.2.0.0 | URL attachment
 [knowledge](knowledge/) | 9.0.1.1.0 | Knowledge Management System
 
 Unported addons
